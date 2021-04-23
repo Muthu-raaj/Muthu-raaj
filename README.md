@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muthu
+- 👋 Hi, I’m Muthu
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on web development projects
